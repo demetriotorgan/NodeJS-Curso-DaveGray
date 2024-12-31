@@ -1,0 +1,3 @@
+20241226	20:27:14	79fa33c5-8a04-4e8f-91be-af270536eb86	Log evnet emitido
+20241226	20:27:39	d58cd039-dbab-4e1b-828a-09561c3d5bb6	Log evnet emitido
+20241226	20:28:00	e1286ea3-8088-4122-b42d-f72c5d4e0996	Log evnet emitido

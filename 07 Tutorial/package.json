@@ -1,0 +1,22 @@
+{
+  "name": "07-tutorial",
+  "version": "1.0.0",
+  "description": "Middleware Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "express": "^4.21.2",
+    "uuid": "^11.0.3"
+  }
+}

@@ -1,0 +1,2 @@
+Node escrevendo com writeFile
+Testando appendFile
